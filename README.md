@@ -1,2 +1,3 @@
-# Seapunk-PDC-Manager
-Bot de Telegram para hacer más ágiles los combates del juego de rol Seapunk Unleashed. Juego original por Pedro Paul (https://www.unleashedgames.es, @Pedro_J_Paul)
+# pdc-manager
+Bot de telegram para agilizar los turnos en el juego de rol Seapunk Unleashed por @Pedro_J_Paul, https://www.unleashedgames.es/
+(NO OFICIAL)
